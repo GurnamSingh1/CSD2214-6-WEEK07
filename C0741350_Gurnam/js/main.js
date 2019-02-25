@@ -8,7 +8,7 @@ var bird = {
     maxoffspring: 5,
     noisy: true,
     deadly: false
-};
+}
 
 var bear = {
     genus: "ursus",
