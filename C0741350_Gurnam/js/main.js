@@ -2,7 +2,7 @@
 var bird = {
     genus: "corvus",
     species: "corvax",
-    commonName: "raven";
+    commonName: "raven",
     callType: "squawky",
     quote: "Nevermore",
     maxoffspring: 5,
@@ -13,7 +13,7 @@ var bird = {
 var bear = {
     genus: "ursus",
     species: "arctos",
-    commonName: "brown bear";
+    commonName: "brown bear",
     callType: "roar",
     quote: "",
     maxoffspring: 3,
